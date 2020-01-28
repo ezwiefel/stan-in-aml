@@ -1,3 +1,8 @@
+# Copyright (c) 2020 Microsoft
+# 
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 from mpi4py import MPI
 from cmdstanpy import set_cmdstan_path, CmdStanModel
 import os
